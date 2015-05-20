@@ -6,7 +6,7 @@ weblog
 
 Download
 --------
-    $ git clone https://github.com/ghostrong/weblog.git
+    $ git clone https://github.com/edisonliang/ohmyga_blog.git
 
 Quick Start
 -----------
